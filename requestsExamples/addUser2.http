@@ -1,0 +1,12 @@
+POST localhost:9000/subscriber/subscribe
+Content-Type: application/json
+Request-Body:
+
+{
+  "name": "Tom",
+  "surname": "Sigal",
+  "ccyPair": {
+    "USDJPY": 0,
+    "EURRUB": 0
+  }
+}

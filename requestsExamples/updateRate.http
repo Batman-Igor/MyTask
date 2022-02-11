@@ -1,0 +1,2 @@
+POST localhost:9000/subscriber/onpost?ccyPair=EURUSD&rate=20
+Content-Type: application/json
